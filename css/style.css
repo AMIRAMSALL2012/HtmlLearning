@@ -1,0 +1,15 @@
+.page-title {
+    text-align: center;
+    color: #ff00ff;
+    border: #4287f5 solid 1px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+div>.span {
+    align-content: flex-end;
+    border: black solid 1px;
+    margin-top: 200%;
+}
